@@ -1,0 +1,19 @@
+#id1{
+    height: 500px;
+    color: black;
+    width: 500px;
+   border: 3px solid #db1d1d;
+   background-image: url(wow.png);
+   background-size: cover;
+   justify-content: center;
+   align-items: center;
+   position: relative;
+
+
+}
+#id1 p{
+    position: relative;
+    justify-content: center;
+    color: #000;
+    align-items: center;
+}
